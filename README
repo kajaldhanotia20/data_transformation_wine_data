@@ -1,0 +1,10 @@
+Part-1:
+a) Plotting the Total Energy Consumed by the Residential Sector per month.
+b) Aggregated the data above into yearly values, and plotted the yearly values 
+
+
+Part 2:
+a) Loaded the wine dataset from sklearn library.
+b) Applying the MinMaxScaler() from the sklearn preprocessing library to the wine data to normalize it. 
+c) Applying the StandardScaler() from the sklearn preprocessing library to the wine data to standardize it.
+d) Applying the PCA library to the standardized data from c) and determine the number of dimensions that can be reduced while capturing 90% of the variance in the data.  
